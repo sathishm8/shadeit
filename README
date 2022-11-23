@@ -1,5 +1,3 @@
-# opengl-examples
-
 Source: https://learnopengl.com/
 
 Source code from the chapter (Getting-started/Textures) is modified to load and display grayscale 512x512 image and experiment with fragment shader
